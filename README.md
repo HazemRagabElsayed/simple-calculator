@@ -25,3 +25,6 @@ so we should enter 01 to make our project understand it as 1 not 10
 
 for example if we divide 5/2 we will get 2 not 2.5 as 0.5 is ignored
 
+note:
+-some problems were encountered in Atmel studio so you will find that there are addtitional files in file of this project which makes size of project bigger than expected so you can take code copy paste only not using same file of my own atmel studio.
+
