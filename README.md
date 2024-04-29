@@ -15,7 +15,9 @@ only between two integers (numbers without fractions) and result is an integer
 
 ## Disadvantages:
 -it can't do operations between numbers that has more than two digits ( digit for ones and digit for tens)
+
 -if we want to do operations between numbers that each of them has one digit we should enter 0 for each number to put 0 in digit for tens
+
 -if we enter one digit and do operation with it it considers it as digit for tens
 
 for example if we enter 1 then our project will understand it is 10 not 1
