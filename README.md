@@ -4,12 +4,17 @@ This project is a simple calculator that can do operations( Addition(+) , Subtra
 only between two integers (numbers without fractions) and result is an integer
 
 ## Devices used:
+
 -Atmega32 (where we put our code to do specific functions)
+
 -LCD 16x2 (for displaying entered numbers, operation and result)
+
 -Keypad 4x4 ( for entering numbers and operation and equal sign(=) )
+
 
 ## tools used:
 -Proteus 8 Professional
+
 -Atmel Studio 6.0
 
 
