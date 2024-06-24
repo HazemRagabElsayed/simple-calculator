@@ -2,7 +2,7 @@
  * LCD.c
  *
  * Created: 19/03/2024 01:31:24 ص
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 #include"DIO.h"
 #include"LCD.h"
