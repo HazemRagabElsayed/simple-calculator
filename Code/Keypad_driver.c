@@ -2,7 +2,7 @@
  * Keypad_driver.c
  *
  * Created: 19/03/2024 12:59:21 ص
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 #include<avr/io.h>
 #define F_CPU 8000000UL
